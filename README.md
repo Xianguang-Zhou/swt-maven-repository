@@ -109,3 +109,26 @@ Maven repository for SWT and JFace, repository URL:
 </dependencies>
 ```
 
+4. Add JFace Maven dependency(optional):
+
+```xml
+<dependencies>
+	<dependency>
+		<groupId>org.eclipse.jface</groupId>
+		<artifactId>org.eclipse.jface</artifactId>
+		<version>3.13.1.v20170810-0135</version>
+	</dependency>
+</dependencies>
+```
+
+5. Add JFace data binding Maven dependency(optional):
+
+```xml
+<dependencies>
+	<dependency>
+		<groupId>org.eclipse.jface.databinding</groupId>
+		<artifactId>org.eclipse.jface.databinding</artifactId>
+		<version>1.8.100.v20170503-1507</version>
+	</dependency>
+</dependencies>
+```
