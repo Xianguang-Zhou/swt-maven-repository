@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.eclipse.core.databinding.observable</groupId>
+  <artifactId>org.eclipse.core.databinding.observable</artifactId>
+  <versioning>
+    <release>1.6.100.v20170515-1119</release>
+    <versions>
+      <version>1.6.100.v20170515-1119</version>
+    </versions>
+    <lastUpdated>20171012024935</lastUpdated>
+  </versioning>
+</metadata>
