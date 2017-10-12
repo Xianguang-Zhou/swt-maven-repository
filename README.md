@@ -1,8 +1,6 @@
 # swt-maven-repository
 
-Maven repository for SWT and JFace, repository URL: 
-
-	http://xianguang-zhou.github.io/swt-maven-repository/release/
+Maven repository for SWT and JFace.
 
 ## Usage
 
@@ -91,8 +89,7 @@ Maven repository for SWT and JFace, repository URL:
 <repositories>
 	<repository>
 		<id>swt-repo</id>
-		<name>SWT Maven Repository</name>
-		<url>http://xianguang-zhou.github.io/swt-maven-repository/release/</url>
+		<url>http://xianguang-zhou.github.io/swt-maven-repository/</url>
 	</repository>
 </repositories>
 ```
