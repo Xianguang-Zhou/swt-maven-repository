@@ -129,3 +129,11 @@ Maven repository for SWT and JFace.
 	</dependency>
 </dependencies>
 ```
+
+## Version relationships between SWT and JFace
+
+| SWT version | JFace version         |
+| ----------- | --------------------- |
+| 4.7.1       | 3.13.1.v20170810-0135 |
+| 4.4.2       | 3.10.2.v20141021-1035 |
+
