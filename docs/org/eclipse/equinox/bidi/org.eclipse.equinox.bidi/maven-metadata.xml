@@ -3,10 +3,11 @@
   <groupId>org.eclipse.equinox.bidi</groupId>
   <artifactId>org.eclipse.equinox.bidi</artifactId>
   <versioning>
-    <release>1.1.0.v20160728-1031</release>
+    <release>0.10.0.v20130327-1442</release>
     <versions>
       <version>1.1.0.v20160728-1031</version>
+      <version>0.10.0.v20130327-1442</version>
     </versions>
-    <lastUpdated>20171012024953</lastUpdated>
+    <lastUpdated>20171018041647</lastUpdated>
   </versioning>
 </metadata>

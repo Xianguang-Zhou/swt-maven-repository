@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.eclipse.core.databinding.property</groupId>
+	<artifactId>org.eclipse.core.databinding.property</artifactId>
+	<version>1.4.200.v20130515-1857</version>
+	<dependencies>
+		<dependency>
+			<groupId>org.eclipse.equinox.common</groupId>
+			<artifactId>org.eclipse.equinox.common</artifactId>
+			<version>3.6.200.v20130402-1505</version>
+		</dependency>
+		<dependency>
+			<groupId>org.eclipse.core.databinding.observable</groupId>
+			<artifactId>org.eclipse.core.databinding.observable</artifactId>
+			<version>1.4.1.v20130515-1857</version>
+		</dependency>
+	</dependencies>
+</project>

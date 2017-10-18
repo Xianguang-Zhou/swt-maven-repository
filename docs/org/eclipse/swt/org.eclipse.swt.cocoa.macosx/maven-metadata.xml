@@ -3,10 +3,11 @@
   <groupId>org.eclipse.swt</groupId>
   <artifactId>org.eclipse.swt.cocoa.macosx</artifactId>
   <versioning>
-    <release>4.4.2</release>
+    <release>4.3.2</release>
     <versions>
       <version>4.4.2</version>
+      <version>4.3.2</version>
     </versions>
-    <lastUpdated>20150319052039</lastUpdated>
+    <lastUpdated>20171018034507</lastUpdated>
   </versioning>
 </metadata>
