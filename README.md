@@ -4,7 +4,7 @@ Maven repository for SWT and JFace.
 
 ## Usage
 
-1. Set property "swt.artifactId":
+1. Set the property "swt.artifactId":
 
 ```xml
 <profiles>
@@ -138,3 +138,6 @@ Maven repository for SWT and JFace.
 | 4.4.2       | 3.10.2.v20141021-1035 |                        |
 | 4.3.2       | 3.9.1.v20130725-1141  | 1.6.200.v20130515-1857 |
 
+## Example
+
+[pom.xml](pom.xml)
